@@ -21,14 +21,7 @@
 
 ## 📦 安装
 
-### 方式一：Claude Code 市场（推荐）
-
-```bash
-# 等 Claude Code 官方市场支持后
-claude skills install reduce-aigc-rate
-```
-
-### 方式二：手动安装
+### 方式一：手动安装
 
 ```bash
 # 克隆到 Claude Code skills 目录
